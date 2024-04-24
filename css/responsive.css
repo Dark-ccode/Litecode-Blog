@@ -1,0 +1,109 @@
+@media screen and (max-width:480px){
+    /*things to be hidden */
+    .desktop{display: none;}
+    .responsive{display: block;}
+
+    .headfixed{height: 60px;width: 100%;left: 0%;margin-bottom: -20px;z-index: 999;}
+    .name,.hub{font-size: 29px;margin-top: 5px;margin-left: 1%;}
+    .readmore{height:auto;padding: 2px;font-size: 14px;margin-top: 5px;margin-left: 70%;}
+    .body{margin-top: 10px;}
+    .navscat{margin-left:5px ;} 
+    .menuimg{width: 45px;height: 40px;display: inline-block;margin-top: -10px;margin-left: 5px;
+        border-radius: 4px;padding: 4px;border: 1px solid white;}
+.popular{height: auto;padding-bottom: 20px;}
+.searchcont{width: 208%;margin-left: 5%;margin-top: 60px;}
+.app{float: right;font-size: 14px;
+    padding:5px; border-radius: 4px;
+    margin-right: 20px;margin-top: 15px;
+    width: 100px;text-align: center;display: block;
+    }
+
+    .container{max-width: 95%;padding: 10px;}
+
+.plugins{margin-bottom: 30px;padding-left: 10px;padding-right:10px ;}
+.pplugin{padding-left: 0px;padding-right:0px ;}
+
+.inputs{width: 70%;}
+
+.commentcont{width: 96%;margin-left: 0%;margin-bottom: 0px;position: relative;;}
+.comentbox{width: 90%;margin-left: -3%;}
+
+/*
+    table{position: absolute;top: 57px;
+        width: 100%;display:block;margin-left: 0%;margin-top: 0px;
+        overflow-x:scroll;
+        overflow-y:hidden;
+        -webkit-overflow-scrolling:touch;
+        -ms-overflow-scrolling:touch;
+        -ms-overflow-style:none;
+        -ms-scroll-snap-type: mandatory;
+        scroll-snap-type: mandatory;
+        -ms-scroll-snap-points-x: snapInterval(0%,20%);
+        padding-top: 2px;
+        font-size: 17px;
+    -ms-overflow-style:-ms-autohiding-scrollbar;
+    padding-right:5px;
+    clear: both;
+    z-index: 2;
+    display: none;
+    }*/
+
+.post_caption{font-size: 17px;letter-spacing: 1px;margin-top: 2px;margin-bottom: 2px;color: rgb(78, 78, 235);}
+
+#postsfullbody{margin-top:-40px;}   
+.post{width: 100%;margin-left: 0%;margin-top: 15px;max-height: auto;
+    }
+    .pbody{font-size: 15px;text-align: justify;}
+
+
+.upnav{width: 40px;height: 40px;background-color: orange;box-shadow: rgba(255, 166, 0, 0.774) 2px 2px;
+    padding: 4px;border-radius: 4px;position: fixed;bottom: 30px;right: 15px;display: block;}
+
+.ffollowimg{width: 34px;height:34px;margin-right: 5px;;margin-left: 15px;padding: 5px;border-radius: 50%}
+
+/* others */
+textarea{border: 1px solid black;width: 90%;height: 120px;}
+.ssimg{margin-left: 0px;margin-right: 5px;}
+.pposts{font-size: 13px;}
+
+.navtable{display:  block;}
+
+.menuicon{float: right;width: 30px;height: 30px;margin-top: 15px;box-shadow: #e9ecef 2px 2px;padding: 2px;}
+.page{margin-top: -50px;}
+.courseviwer{margin-top: 0px;}
+
+.suggest{width: 90%;height: auto;padding-top: 10px;padding-bottom: 15px;
+    background-color: white;padding-right: 5px;padding-left: 5px;
+position: absolute;top:-1005px;left: 5%;}
+#Searchresultpage{margin-top: 40px;}
+.navf{display: block;margin-top: 6px;margin-bottom: 6px;
+    padding-top: 2px;padding-bottom: 2px;padding-left: 4px;
+    background-color:rgb(17, 17, 61);;font-size: 17px;}
+.footnavs{width:90%;margin-left: 2.25%;margin-bottom: 30px;margin-top: 15px;
+    text-align: center;letter-spacing: 4px;color:black}
+
+    .outlines{display: block;margin-top: 10px;margin-bottom: 10px;font-size: 15px;}
+.header{margin-top: 10px;font-size: 18px;}
+.resnone{display: none;}
+.slide_cont{margin-top: -30px;width: inherit;height:390px;margin-left: 0%;margin-bottom: 20px;padding: 0px;}
+.writeup{position: absolute;top: -8px;left: 0%;
+    color: white;
+    
+    font-size: 20px;padding: 30px;padding-top: 140px;padding-left: 50px;
+  width:inherit;
+    height:32.6%;
+    height:391px;
+}
+.popular,.Aboutme{max-width: 100%;margin-left: 0%;}
+
+.menubody{position: fixed;top: 60px;right: 0px;width:80%;height: 100%;background-color: white;padding-left: 10px;display: none;}
+.resmmenu{display: block;width: 100%;margin-top: 10px;margin-bottom: 10px
+    ;padding: 4px;}
+    .tutcourses{display: block;width: 100%;margin-top: 10px;margin-bottom: 10px;padding: 4px;color:rgba(13, 51, 100, 0.747);}
+.tuthead{font-size: 17px;}
+.resmmenuicon{width:20px;height: 20px;margin-right: 5px;cursor: pointer;}
+
+
+.intro{margin-top: 55%;text-align: center;}
+
+}

@@ -1,0 +1,103 @@
+.all{margin-top: 10px;}
+
+.name{font-size: 35px;}
+.head{height: 60px;}
+.statcard{width: 95%;border-radius: 10px;margin-top: 10px;height: 70px;
+    padding-top: 8px;padding-bottom: 8px;padding-left: 5px;padding-right: 5px;}
+.statname{font-size:25px;letter-spacing: 2px;}
+.statvalue{font-size: 17px;margin-left: 5px;display: inline-block;}
+.smallc{height: 50px;}
+.fsmallc{margin-top: 30px;}
+.sfsmallc{margin-top: 10px;}
+.smallname{font-size: 23px;}
+.smallvalue{font-size: 16px;margin-left: 20px;}
+
+.statimg{width: 90%;height: 90%;;margin-right: 20%;padding-top: 3px;padding-bottom: 3px;
+    background-color: white;border-radius: 8px;}
+.statimgcont{width: 30%;height: 100%;margin-top:0%;float: right;}
+.statcont{width: 60%;height: 90%;margin-top:0%;font-size: 15px;float: left;padding-left: 10px;}
+.ostimg{padding-top: 3px;padding-bottom: 3px;}
+hr{background-color: aliceblue;}
+/* care */
+.care{text-align: center;width: 90%;margin-left: 5%;margin-top: 10px;padding-bottom: 40px;}
+.in{margin-top: 20px;border-radius: 5px;}
+.input{width:80%}
+.send{width: 40%;background-color: transparent;border: 1px solid black;border-radius: 10px;}
+.pop{margin-top: 30px;}
+/* left nav  */
+.leftnav{width: 90%;height:auto;margin-left: 5%;padding-bottom: 10px}
+.imgcont{width: 28%;height: 60px;margin-left: 2%;display: inline-block;margin-top: 0px;}
+.namecont{width: 60%;font-size: 20px;margin-right: 7%;float: right;color: white;margin-top: 10px;}
+.adminimg{width: 100%;height: 100%;border-radius: 10px;padding: 10px;}
+.profilecont{padding-bottom: 0px;padding-top: 10px;}
+.adminname{margin-top: -8px;display: inline-block;}
+.pp{display: block;margin-top: 5px;cursor: pointer;}
+.nav{display: block;padding-top: 8px;padding-bottom: 8px;width: 98%;margin-left: 1%;
+    font-size: 22px;margin-top: 7px;font-size: 20px;}
+.navcont{margin-top: 20px;cursor: pointer;}
+.nicons{width: 30px;height: 30px;margin-top: 3px;margin-left: 20px;padding: 5px;
+    margin-right: 20px;background-color: seashell;}
+ .dsh{background-color:rgba(13, 51, 100, 0.747) ;color: white;}   
+.usersub,.postsub{margin-top: 8px;padding-bottom: 7px;padding-left: 40px;display: block;
+    font-size: 17px;margin-left: 20%;width: 60%;}
+.Submenu{display: none;font-size: 15px;}
+.headimgcont{margin-top: 15px;display: inline-block;float: right;}
+.headimg{background-color: rgb(211, 57, 57);padding: 5px;border-radius: 5px;}
+.none{display: none;}
+/* other styles*/
+.page{margin-top: 20px;}
+#page1{margin-top: 10px;}
+/* for form*/
+.formcont{width: 80%;margin-left: 5%;text-align: center;height: auto;
+    padding-bottom:30px ;margin-bottom: 60px;}
+    .inputs{height: 30px;width: 90%;margin-left: 5%;border: 0.5px solid black;
+        margin-bottom: 20px;display: block;margin-top: 20px;}
+    .cat{margin-top: 10px;width: 40%;margin-right: 0%;}
+    #no{width: 10%;display: inline;}
+    #t{width: 90%;height: 80px;border: 0.5px solid black;}
+    .postbtn{width: 40%; border: 0.5px solid black;padding: 4px;}
+    .posthead{font-size: 19px; }
+    /*--- */
+.cancelimg{width: 20px;height: 20px;margin-top: 0px;background-color: red;border-radius: 50%;}
+
+    /*--for form- add admin */
+
+.formbody{text-align: center;
+    padding-bottom: 40px;border-radius: 20px;margin-left: 10%;
+    width: 80%;/**/}
+h4{text-align: center;margin-top: 20px;letter-spacing: 5px;font-size: 25px;}
+.inputts{width:85%;display: inline-block;height:100%;
+    border: none;background-color: transparent;float: right;}
+
+.inputcont{width:90%;margin-top: 40px;height: 40px;margin-left: 5%;
+    border: 0.5px solid black;border-radius: 5px;padding: 4px;}
+.inputimgs{width:10%;height: 26px;margin-top: 5px;float: left;}
+.next{width: 120px;display: block;margin-top: 10px;border:none;
+    height: 35px;text-align: center;padding: 5px;margin-left: 5%;
+}
+
+.medianave{height: 50px;width:100%;font-size: 19px;margin-bottom: 30px;
+    margin-left: 0%;text-align: center;padding: 5px;padding-top: 10px;}
+
+    .mnaves{width: 20%;margin-left: 2%;margin-right: 10%;height: 100%;display: inline-block;}
+
+    /*--for media */
+
+.medaisconts{text-align: center;width: 100%;height: 140px;}
+.cardd{width: 28%;margin-left: 2%;margin-right: 2%;height: 100%;}
+.DBimg{width: 98%;margin-left: 1%;height: 80%;}
+.imgname{text-align: left;font-size: 14px;}
+.del{float: right;font-size: 15px;}
+.medsspage{margin-bottom: 20px;}
+
+.iimage{background-color: #17a2b8;}
+
+/* for details */
+.drows{display: block;margin-top: 10px;margin-bottom: 20px;}
+.cells{width: 46%;}
+.info{text-align: left;display: inline-block;margin-left: 0px;font-size: 
+    20px;}
+.details{margin-right: 8px;text-align: right;}
+.edit{padding: 5px;margin-top: 20px;}
+.detailscont{width: 80%;margin-left: 10%;font-size: 18px;}
+.editorpage{text-align: center;width: 80%;margin-left: 5%;}
